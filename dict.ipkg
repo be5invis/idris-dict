@@ -1,0 +1,3 @@
+package    "dict"
+pkgs       = contrib
+sourcedir  = src
