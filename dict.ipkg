@@ -1,3 +1,4 @@
 package    "dict"
 pkgs       = contrib
 sourcedir  = src
+modules    = Data.Dict.RedBlackTree
